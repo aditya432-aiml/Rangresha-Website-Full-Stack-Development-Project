@@ -26,4 +26,4 @@ Crafted a dynamic website for [Rangresha School of Arts & Design](https://rangre
 Contributions are welcome! Feel free to open issues and pull requests.
 
 ## License
-This project is licensed under the [MIT License](link_to_license).
+This project is licensed under the [MIT License](LICENSE).
